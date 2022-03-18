@@ -7,6 +7,6 @@
 #*#
 
 # define work directory
-workDir=('/home/pi/NativeJmeTemplate')
+workDir=('/home/pi/NativePiTemplate')
 
 clibName=('libTestJni.so')
