@@ -6,7 +6,7 @@
 #* @author pavl_g.
 #*#
 
-workingDir='/home/pi/NativeJmeTemplate'
+workingDir='/home/pi/NativePiTemplate'
 outputJAR='TestJni'
 manifest='Manifest-Version: 1.0'
 mainclass='Main-Class: test.TestJni'
